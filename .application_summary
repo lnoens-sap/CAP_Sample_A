@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://build-6q21qctbxx2gjggb.launchpad.cfapps.us10.hana.ondemand.com/lcapCAP_Sample_A.CAP_Sample_ALaunchpad-1.0.0",
+  "DeployedUTCTime": "2023-11-23T06:21:18.421Z",
+  "ApplicationLogURL": "https://logs.cf.us10-001.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:CAP_Sample_A-srv)))))"
+}
