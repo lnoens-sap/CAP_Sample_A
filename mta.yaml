@@ -84,13 +84,13 @@ modules:
               TokenServiceKeyName: CAP_Sample_A-uaa-key
               URL: ~{srv-api/srv-url}/service/CAP_Sample_A
               sap.cloud.service: lcap.CAP_Sample_A
-              sap.applicationdevelopment.actions.enabled: false
+              sap.applicationdevelopment.actions.enabled: true
               sap.build.usage: CAP
-              sap.processautomation.enabled: false
-              HTML5.DynamicDestination: false
-              WebIDEEnabled: false
-              MobileEnabled: false
-              AppgyverEnabled: false
+              sap.processautomation.enabled: true
+              HTML5.DynamicDestination: true
+              WebIDEEnabled: true
+              MobileEnabled: true
+              AppgyverEnabled: true
     build-parameters:
       no-source: true
     requires:
